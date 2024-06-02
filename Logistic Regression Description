@@ -1,0 +1,4 @@
+This Model is to predict whether the email is spam or no.
+The model identifies several key predictors of spam emails (e.g., dollar, bang, money, n000) which are highly significant and have strong positive effects on the likelihood of an email being spam.
+One predictor (make) is not significant, suggesting it doesn't contribute much to the model in distinguishing spam emails.
+Overall, the model performs well, explaining a substantial portion of the variability in the dependent variable and being statistically significant as a whole.
