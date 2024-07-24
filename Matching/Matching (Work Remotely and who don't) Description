@@ -1,6 +1,0 @@
-This is a matching where we compare two groups of people (who work remotely and those who don't) by making them as similar as possible in terms of other characteristics.
-
-Analysis:
-ATE (Average Treatment Effect): The ATE of 0.179 suggests that, on average, individuals who work remotely have a career satisfaction score around 0.179 points higher than those who do not work remotely.
-P-value for ATE: Since 0.208 is greater than the typical significance level of 0.05, we might interpret it as not statistically significant. 
-This means that the observed difference in career satisfaction between the two groups could be due to random chance rather than a true effect of remote work.
